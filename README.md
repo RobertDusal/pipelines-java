@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/appdev-upskilling-fy2602/roberto.jr.m.dusal/_apis/build/status%2FRobertDusal.pipelines-java?branchName=main)](https://dev.azure.com/appdev-upskilling-fy2602/roberto.jr.m.dusal/_build/latest?definitionId=20&branchName=main)
 
 # Contributing
 
